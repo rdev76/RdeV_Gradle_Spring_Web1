@@ -1,0 +1,23 @@
+{
+  "name": "RdeV_Gradle_Spring_Web1",
+  "homepage": "https://github.com/rdev76/RdeV_Gradle_Spring_Web1",
+  "authors": [
+    "rdev <robert@myradio.nl>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-elements": "^1.0.7"
+  }
+}
